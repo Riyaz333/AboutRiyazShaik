@@ -144,7 +144,7 @@ body {
     text-decoration: none;
   }
   
-  .parent {
+  .mountain {
     display: grid;
     grid-template-columns: 0.5fr 1fr;
     grid-template-rows: repeat(1, 1fr);
